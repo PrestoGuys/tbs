@@ -2,4 +2,4 @@
 
 ![TBS LOGO](tbs_logo.png)
 
-TBS Main Repo
+A text-based version of [Scratch](https://scratch.mit.edu) created using the mod [PenguinMod](https://penguinmod.com).
